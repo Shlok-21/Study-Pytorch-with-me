@@ -1,1 +1,1 @@
-Study material and practive notebooks for Pytorch
+Study material and practice notebooks for Pytorch
